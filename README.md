@@ -50,15 +50,24 @@ export default class SobreMim extends Desenvolvedor {
 ## 🚀 Stack Tecnológicas
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-6366f1?style=for-the-badge&logo=typescript&logoColor=000" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-6366f1?style=for-the-badge&logo=react&logoColor=000" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-6366f1?style=for-the-badge&logo=next.js&logoColor=000" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-6366f1?style=for-the-badge&logo=node.js&logoColor=000" alt="Node.js">
-  <img src="https://img.shields.io/badge/NestJS-6366f1?style=for-the-badge&logo=nestjs&logoColor=000" alt="NestJS">
-  <img src="https://img.shields.io/badge/PostgreSQL-6366f1?style=for-the-badge&logo=postgresql&logoColor=000" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-6366f1?style=for-the-badge&logo=docker&logoColor=000" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-6366f1?style=for-the-badge&logo=git&logoColor=000" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-6366f1?style=for-the-badge&logo=figma&logoColor=000" alt="Figma">
+  <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=000" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-ffffff?style=for-the-badge&logo=react&logoColor=000" alt="React Native">
+  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000" alt="Next.js">
+
+  <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=000" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=000" alt="Express">
+  <img src="https://img.shields.io/badge/NestJS-ffffff?style=for-the-badge&logo=nestjs&logoColor=000" alt="NestJS">
+
+  <img src="https://img.shields.io/badge/Prisma-ffffff?style=for-the-badge&logo=prisma&logoColor=000" alt="Prisma">
+  <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=000" alt="PostgreSQL">
+
+  <img src="https://img.shields.io/badge/Expo-ffffff?style=for-the-badge&logo=expo&logoColor=000" alt="Expo">
+
+  <img src="https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=000" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000" alt="Linux">
+  <img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=000" alt="Figma">
 </p>
 </div>
 <div align="center">
