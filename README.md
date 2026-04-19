@@ -38,7 +38,7 @@ export default class SobreMim extends Desenvolvedor {
             `No backend, construo APIs com ${this.habilidadesTecnicas.backend.join(", ")}.\n` +
             `Também utilizo ferramentas como ${this.habilidadesTecnicas.tools.join(", ").replace(/,([^,]*)$/, " e$1")} no meu fluxo de desenvolvimento.\n\n` +
 
-            `Sempre evoluir no processo e transformando, entre um commit e outro, café em código e bugs em aprendizado...`
+            `Sempre evoluindo no processo e transformando, entre um commit e outro, café em código e bugs em aprendizado...`
         );
     }
 }
