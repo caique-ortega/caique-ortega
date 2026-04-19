@@ -9,28 +9,39 @@
   ## 💻 Sobre Mim
   
 ```js
-import Desenvolvedor from "CaiqueOrtega";
+import Desenvolvedor from "@caique-ortega/developer";
 
-class SobreMim extends Desenvolvedor {
+export default class SobreMim extends Desenvolvedor {
     constructor() {
-        super();
-        this.nome = "Caique Ortega";
-        this.area = "Full Stack";
-        this.localizacao = "Cianorte - PR";
-        this.habilidadesTecnicas = {
-            frontend: ["React", "Next.js", "TypeScript", "Node.js"],
-            backend: ["Express", "NestJS", "Prisma", "PostgreSQL"],
-            tools: ["Git", "Docker"]
-        };
+        super({
+            nome: "Caique Ortega",
+            area: "Desenvolvedor",
+            especialidade: "Full-Stack",
+            localizacao: "Cianorte - PR",
+            habilidadesTecnicas: {
+                frontendWeb: ["Next.js", "React", "Tailwind CSS"],
+                frontendMobile: ["React Native", "Expo"],
+                backend: ["Node.js", "Express", "NestJS", "Prisma", "PostgreSQL"],
+                tools: ["Git", "Docker", "TypeScript", "Linux"]
+            }
+        });
     }
 
     descrever() {
-        return `Olá! meu nome é ${this.nome}, sou desenvolvedor ${this.area} atualmente, atuando em ${this.localizacao}.
-        Adoro transformar ideias em aplicações práticas e eficientes, combinando ${this.habilidadesTecnicas.frontend.join(", ")} no frontend e ${this.habilidadesTecnicas.backend.join(", ")} no backend, sempre apoiado por ${this.habilidadesTecnicas.tools.join(" e ")}.
-        Meu objetivo é criar soluções escaláveis, bem estruturadas e que realmente façam a diferença para quem as utiliza, sempre aprendendo e evoluindo no caminho.`;
+        return (
+            `Olá! Meu nome é ${this.nome} e atuo como ${this.area} ${this.especialidade}, em ${this.localizacao}.\n` +
+            `Tenho foco no desenvolvimento de aplicações completas, unindo frontend, mobile e backend.\n\n` +
+
+            `No frontend web, trabalho com ${this.habilidadesTecnicas.frontendWeb.join(", ")}.\n` +
+            `No mobile, utilizo ${this.habilidadesTecnicas.frontendMobile.join(", ").replace(/,([^,]*)$/, " e$1")}.\n\n` +
+
+            `No backend, construo APIs com ${this.habilidadesTecnicas.backend.join(", ")}.\n` +
+            `Também utilizo ferramentas como ${this.habilidadesTecnicas.tools.join(", ").replace(/,([^,]*)$/, " e$1")} no meu fluxo de desenvolvimento.\n\n` +
+
+            `Sempre evoluir no processo e transformando, entre um commit e outro, café em código e bugs em aprendizado...`
+        );
     }
 }
-
 ```
 <img src="assets/gifs/terminal.gif" alt="Terminal GIF"/>
 
