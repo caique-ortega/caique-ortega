@@ -12,20 +12,20 @@
 import Desenvolvedor from "@caique-ortega/developer";
 
 export default class SobreMim extends Desenvolvedor {
-constructor() {
-super({
-nome: "Caique Ortega",
-area: "Desenvolvedor",
-especialidade: "Full-Stack",
-localizacao: "Cianorte - PR",
-habilidadesTecnicas: {
-frontendWeb: ["Next.js", "React", "Tailwind CSS"],
-frontendMobile: ["React Native", "Expo"],
-backend: ["Node.js", "Express", "NestJS", "Prisma", "PostgreSQL"],
-tools: ["Git", "Docker", "TypeScript", "Linux"]
-}
-});
-}
+    constructor() {
+        super({
+            nome: "Caique Ortega",
+            area: "Desenvolvedor",
+            especialidade: "Full-Stack",
+            localizacao: "Cianorte - PR",
+            habilidadesTecnicas: {
+                frontendWeb: ["Next.js", "React", "Tailwind CSS"],
+                frontendMobile: ["React Native", "Expo"],
+                backend: ["Node.js", "Express", "NestJS", "Prisma", "PostgreSQL"],
+                tools: ["Git", "Docker", "TypeScript", "Linux"]
+            }
+        });
+    }
 
     descrever() {
         return (
@@ -41,14 +41,12 @@ tools: ["Git", "Docker", "TypeScript", "Linux"]
             `Sempre evoluindo no processo e transformando, entre um commit e outro, café em código e bugs em aprendizado...`
         );
     }
-
 }
-
 ```
 <img src="assets/gifs/terminal.gif" alt="Terminal GIF"/>
 
 <div align="center">
-
+  
 ## 🚀 Stack Tecnológicas
 
 <p>
@@ -74,9 +72,9 @@ tools: ["Git", "Docker", "TypeScript", "Linux"]
 </div>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
+    <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/CaiqueOrtega/CaiqueOrtega/output/github-contribution-grid-snake-dark.svg">
-    <img
+    <img 
       src="https://raw.githubusercontent.com/CaiqueOrtega/CaiqueOrtega/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
@@ -84,6 +82,5 @@ tools: ["Git", "Docker", "TypeScript", "Linux"]
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8754F4&center=true&vCenter=true&width=1500&height=90&duration=4000&lines=%E2%98%95+Transformando+caf%C3%A9+em+c%C3%B3digo+e+ideias+em+solu%C3%A7%C3%B5es." alt="☕ Entre um commit e outro transformando café em código e bugs em aprendizado."/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8754F4&center=true&vCenter=true&width=1500&height=90&duration=4000&lines=%E2%98%95+Transformando+caf%C3%A9+em+c%C3%B3digo+e+ideias+em+solu%C3%A7%C3%B5es." alt="☕ Transformando café em código e ideias em soluções."/>
 </div>
-```
