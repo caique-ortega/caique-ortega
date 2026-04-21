@@ -82,5 +82,5 @@ export default class SobreMim extends Desenvolvedor {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8754F4&center=true&vCenter=true&width=1500&height=90&duration=4fff&lines=%E2%98%95+Transformando+caf%C3%A9+em+c%C3%B3digo+e+ideias+em+solu%C3%A7%C3%B5es." alt="☕ Transformando café em código e ideias em soluções."/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8754F4&center=true&vCenter=true&width=1500&height=90&duration=4000&lines=%E2%98%95+Transformando+caf%C3%A9+em+c%C3%B3digo+e+ideias+em+solu%C3%A7%C3%B5es." alt="☕ Transformando café em código e ideias em soluções."/>
 </div>
