@@ -50,24 +50,24 @@ export default class SobreMim extends Desenvolvedor {
 ## 🚀 Stack Tecnológicas
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-8754F4?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-8754F4?style=for-the-badge&logo=react&logoColor=fff" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-8754F4?style=for-the-badge&logo=react&logoColor=fff" alt="React Native">
-  <img src="https://img.shields.io/badge/Next.js-8754F4?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-168BFF?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-168BFF?style=for-the-badge&logo=react&logoColor=fff" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-168BFF?style=for-the-badge&logo=react&logoColor=fff" alt="React Native">
+  <img src="https://img.shields.io/badge/Next.js-168BFF?style=for-the-badge&logo=next.js&logoColor=fff" alt="Next.js">
 
-  <img src="https://img.shields.io/badge/Node.js-8754F4?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-8754F4?style=for-the-badge&logo=express&logoColor=fff" alt="Express">
-  <img src="https://img.shields.io/badge/NestJS-8754F4?style=for-the-badge&logo=nestjs&logoColor=fff" alt="NestJS">
+  <img src="https://img.shields.io/badge/Node.js-168BFF?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-168BFF?style=for-the-badge&logo=express&logoColor=fff" alt="Express">
+  <img src="https://img.shields.io/badge/NestJS-168BFF?style=for-the-badge&logo=nestjs&logoColor=fff" alt="NestJS">
 
-  <img src="https://img.shields.io/badge/Prisma-8754F4?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma">
-  <img src="https://img.shields.io/badge/PostgreSQL-8754F4?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-168BFF?style=for-the-badge&logo=prisma&logoColor=fff" alt="Prisma">
+  <img src="https://img.shields.io/badge/PostgreSQL-168BFF?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL">
 
-  <img src="https://img.shields.io/badge/Expo-8754F4?style=for-the-badge&logo=expo&logoColor=fff" alt="Expo">
+  <img src="https://img.shields.io/badge/Expo-168BFF?style=for-the-badge&logo=expo&logoColor=fff" alt="Expo">
 
-  <img src="https://img.shields.io/badge/Docker-8754F4?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-8754F4?style=for-the-badge&logo=git&logoColor=fff" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-8754F4?style=for-the-badge&logo=linux&logoColor=fff" alt="Linux">
-  <img src="https://img.shields.io/badge/Figma-8754F4?style=for-the-badge&logo=figma&logoColor=fff" alt="Figma">
+  <img src="https://img.shields.io/badge/Docker-168BFF?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-168BFF?style=for-the-badge&logo=git&logoColor=fff" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-168BFF?style=for-the-badge&logo=linux&logoColor=fff" alt="Linux">
+  <img src="https://img.shields.io/badge/Figma-168BFF?style=for-the-badge&logo=figma&logoColor=fff" alt="Figma">
 </p>
 </div>
 <div align="center">
@@ -82,5 +82,5 @@ export default class SobreMim extends Desenvolvedor {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8754F4&center=true&vCenter=true&width=1500&height=90&duration=4000&lines=%E2%98%95+Entre+um+commit+e+outro+transformando+caf%C3%A9+em+c%C3%B3digo+e+bugs+em+aprendizado." alt="☕ Entre um commit e outro transformando café em código e bugs em aprendizado."/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=168BFF&center=true&vCenter=true&width=1500&height=90&duration=4000&lines=%E2%98%95+Entre+um+commit+e+outro+transformando+caf%C3%A9+em+c%C3%B3digo+e+bugs+em+aprendizado." alt="☕ Entre um commit e outro transformando café em código e bugs em aprendizado."/>
 </div>
